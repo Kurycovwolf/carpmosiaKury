@@ -4,3 +4,6 @@ reagent-desc-abductor-blood = The blood of a supreme creature, something above l
 
 reagent-name-avali-blood = diluted ammonia blood
 reagent-desc-avali-blood = Smells like piss.
+
+reagent-name-avali-blood = diluted ammonia blood
+reagent-desc-avali-blood = Smells like piss.
