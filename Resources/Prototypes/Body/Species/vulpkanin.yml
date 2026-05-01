@@ -163,9 +163,9 @@
     proto: vulpkanin
   - type: Vocal
     sounds:
-      Male: MaleVulpkanin
-      Female: FemaleVulpkanin
-      Unsexed: MaleVulpkanin
+      Male: CDMaleVulpkanin
+      Female: CDFemaleVulpkanin
+      Unsexed: CDMaleVulpkanin
   - type: Damageable
     damageModifierSet: Vulpkanin
   - type: MeleeWeapon

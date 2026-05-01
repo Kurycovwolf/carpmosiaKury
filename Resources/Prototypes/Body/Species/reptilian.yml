@@ -138,9 +138,9 @@
       state: creampie_lizard
   - type: Vocal
     sounds:
-      Male: MaleReptilian
-      Female: FemaleReptilian
-      Unsexed: MaleReptilian
+      Male: CDMaleReptilian
+      Female: CDFemaleReptilian
+      Unsexed: CDMaleReptilian
   - type: BodyEmotes
     soundsId: ReptilianBodyEmotes
   - type: Damageable
