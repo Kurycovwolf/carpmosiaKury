@@ -177,9 +177,9 @@
       state: creampie_vox
   - type: Vocal
     sounds:
-      Male: UnisexVox
-      Female: UnisexVox
-      Unsexed: UnisexVox
+      Male: CDMaleVox
+      Female: CDFemaleVox
+      Unsexed: CDMaleVox
   - type: Butcherable
     butcheringType: Spike
     spawned:
